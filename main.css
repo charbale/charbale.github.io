@@ -1,0 +1,32 @@
+.div1{
+	text-align:center;
+  margin: auto;
+}
+
+body {
+	background-color:#DDC7A0;
+  text-align: center;
+}
+#content {
+    position: relative;
+}
+#content img {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    height: 125px;
+    width: 125px;
+}
+
+#content2 {
+    position: relative;
+}
+#content2 img {
+    position: absolute;
+    top: 0px;
+    height: 125px;
+    width: 125px;
+    left: 0px;
+    transform: scaleX(-1);
+}
+

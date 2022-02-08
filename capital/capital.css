@@ -1,0 +1,39 @@
+.div1{
+    text-align:center;
+    margin: auto;
+}
+body {
+    background-color:#DDC7A0;
+    text-align: center;
+}
+
+#content {
+    position: relative;
+}
+#content img {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
+
+#content2 {
+    position: relative;
+}
+#content2 img {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+.top {
+    width: 100%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+.contents{
+    width: 100%;
+}
+.letter{
+    width: 100%;
+}
